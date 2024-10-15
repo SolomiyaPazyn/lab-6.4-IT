@@ -1,0 +1,34 @@
+﻿  UnitTest6.4 IT.cpp
+D:\programming\lab 6.4 IT\lab 6.4 IT\lab 6.4 IT.cpp(70,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/UnitTest6.4%20IT.cpp')
+  
+D:\programming\lab 6.4 IT\lab 6.4 IT\UnitTest6.4 IT\UnitTest6.4 IT.cpp(15,9): error C2065: 'ArrayTest': undeclared identifier
+  (compiling source file '/UnitTest6.4%20IT.cpp')
+  
+D:\programming\lab 6.4 IT\lab 6.4 IT\UnitTest6.4 IT\UnitTest6.4 IT.cpp(15,20): error C2065: 'MaxFunction': undeclared identifier
+  (compiling source file '/UnitTest6.4%20IT.cpp')
+  
+D:\programming\lab 6.4 IT\lab 6.4 IT\UnitTest6.4 IT\UnitTest6.4 IT.cpp(15,4): error C3861: 'TEST': identifier not found
+  (compiling source file '/UnitTest6.4%20IT.cpp')
+  
+D:\programming\lab 6.4 IT\lab 6.4 IT\UnitTest6.4 IT\UnitTest6.4 IT.cpp(16,5): error C2062: type 'double' unexpected
+  (compiling source file '/UnitTest6.4%20IT.cpp')
+  
+D:\programming\lab 6.4 IT\lab 6.4 IT\UnitTest6.4 IT\UnitTest6.4 IT.cpp(16,20): error C2143: syntax error: missing ';' before '{'
+  (compiling source file '/UnitTest6.4%20IT.cpp')
+  
+D:\programming\lab 6.4 IT\lab 6.4 IT\UnitTest6.4 IT\UnitTest6.4 IT.cpp(16,52): error C2143: syntax error: missing ';' before '}'
+  (compiling source file '/UnitTest6.4%20IT.cpp')
+  
+D:\programming\lab 6.4 IT\lab 6.4 IT\UnitTest6.4 IT\UnitTest6.4 IT.cpp(17,19): error C2065: 'arr': undeclared identifier
+  (compiling source file '/UnitTest6.4%20IT.cpp')
+  
+D:\programming\lab 6.4 IT\lab 6.4 IT\UnitTest6.4 IT\UnitTest6.4 IT.cpp(17,5): error C3861: 'EXPECT_EQ': identifier not found
+  (compiling source file '/UnitTest6.4%20IT.cpp')
+  
+D:\programming\lab 6.4 IT\lab 6.4 IT\UnitTest6.4 IT\UnitTest6.4 IT.cpp(21,1): error C2059: syntax error: '}'
+  (compiling source file '/UnitTest6.4%20IT.cpp')
+  
+D:\programming\lab 6.4 IT\lab 6.4 IT\UnitTest6.4 IT\UnitTest6.4 IT.cpp(21,1): error C2143: syntax error: missing ';' before '}'
+  (compiling source file '/UnitTest6.4%20IT.cpp')
+  
